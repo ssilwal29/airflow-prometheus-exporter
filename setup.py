@@ -11,6 +11,7 @@ with open('README.md', encoding='utf-8') as readme_file:
 install_requirements = [
     'prometheus_client==0.8.0',
     'importlib_metadata==1.7.0',
+    'marshmallow-sqlalchemy==0.23.1',
 ],
 
 extras_require={
