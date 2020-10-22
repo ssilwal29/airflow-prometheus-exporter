@@ -12,7 +12,6 @@ install_requirements = [
     'apache-airflow>=1.10.8',
     'prometheus_client>=0.4.2',
     'importlib_metadata==1.7.0',
-    'marshmallow==3.8.0',
 ],
 
 extras_require={
